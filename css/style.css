@@ -29,7 +29,7 @@ body {
 }
 
 .t_box {
-  margin: 2% 5% 0 5%;
+  margin: 2% 0 0 9%;
   padding: 2% 2% 2% 2%;
   width: 85%;
   border: 0px solid var(--split);
@@ -40,7 +40,7 @@ body {
 }
 
 .content{
-  margin: 0 2% 2% 5%;
+  margin: 0 2% 2% 9%;
   padding: 2% 2% 2% 2%;
   width: calc(85% + 0px);
   min-height: 70vh;
@@ -63,4 +63,23 @@ body {
 
 #greg:hover, #cosc102:hover {
   cursor: pointer;
+}
+
+.nav_cont {
+  position: fixed;
+  margin: 2% 0 0 3%;
+}
+
+#sel {
+  background-color: red;
+}
+
+.nav_r {
+  margin: 3% 3% 3% 3%;
+  text-transform: uppercase;
+  transform: rotate(-90deg);
+}
+
+.nav_d {
+  min-height: 100px;
 }
