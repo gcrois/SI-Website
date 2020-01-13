@@ -40,13 +40,24 @@ body {
 }
 
 .content{
-  margin: 0 2% 2% 3%;
+  margin: 0 3% 0 0;
   padding: 2% 2% 2% 2%;
-  width: calc(90% + 0px);
+  width: calc(82% + 0px);
   min-height: 73.5vh;
   text-align: left;
+  float: right;
 
   background-color: var(--base-3);
+}
+
+.nav{
+  margin: 0 0 0 3%;
+  width: calc(8% + 0px);
+  min-height: 10vh;
+  text-align: left;
+  float: left;
+
+  background-color: red;
 }
 
 .emph{
