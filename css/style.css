@@ -1,0 +1,66 @@
+:root {
+  --base-3:  #fdf6e3;
+  --base-2:  #eee8d5;
+  --base-1:  #93a1a1;
+  --base-0:  #839496;
+  --base-00: #657b83;
+  --base-01: #586e75;
+  --base-02: #073642;
+  --base-03: #002b36;
+
+  --split:   #b58900;
+  --tetrad:  #d33682;
+  --analog:  #2aa198;
+}
+
+body {
+  font-family: sans-serif;
+
+  background-color: var(--base-01);
+  color: var(--base-03);
+}
+
+.title {
+  font-size: 4.5vh;
+}
+
+.subtitle {
+  font-size: 2.5vh;
+}
+
+.t_box {
+  margin: 2% 5% 0 3%;
+  padding: 2% 2% 2% 2%;
+  width: 90%;
+  border: 0px solid var(--split);
+  text-align: center;
+
+  background-color: var(--base-2);
+  color: var(--base-03);
+}
+
+.content{
+  margin: 0 2% 2% 3%;
+  padding: 2% 2% 2% 2%;
+  width: calc(90% + 0px);
+  min-height: 76vh;
+  text-align: left;
+
+  background-color: var(--base-3);
+}
+
+.emph{
+  color: var(--split);
+}
+
+.high{
+  color: var(--tetrad);
+}
+
+.stress {
+  color: var(--analog);
+}
+
+#greg:hover, #cosc102:hover {
+  cursor: pointer;
+}
