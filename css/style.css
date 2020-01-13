@@ -21,11 +21,11 @@ body {
 }
 
 .title {
-  font-size: 4.5vh;
+  font-size: 4vw;
 }
 
 .subtitle {
-  font-size: 2.5vh;
+  font-size: 2.2vw;
 }
 
 .t_box {
@@ -43,7 +43,7 @@ body {
   margin: 0 2% 2% 3%;
   padding: 2% 2% 2% 2%;
   width: calc(90% + 0px);
-  min-height: 74vh;
+  min-height: 73.5vh;
   text-align: left;
 
   background-color: var(--base-3);
