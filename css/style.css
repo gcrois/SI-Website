@@ -21,17 +21,17 @@ body {
 }
 
 .title {
-  font-size: 4vw;
+  font-size: 32px;
 }
 
 .subtitle {
-  font-size: 2.2vw;
+  font-size: 18px;
 }
 
 .t_box {
-  margin: 2% 5% 0 3%;
+  margin: 2% 5% 0 5%;
   padding: 2% 2% 2% 2%;
-  width: 90%;
+  width: 85%;
   border: 0px solid var(--split);
   text-align: center;
 
@@ -40,24 +40,13 @@ body {
 }
 
 .content{
-  margin: 0 3% 0 0;
+  margin: 0 2% 2% 5%;
   padding: 2% 2% 2% 2%;
-  width: calc(82% + 0px);
-  min-height: 73.5vh;
+  width: calc(85% + 0px);
+  min-height: 70vh;
   text-align: left;
-  float: right;
 
   background-color: var(--base-3);
-}
-
-.nav{
-  margin: 0 0 0 3%;
-  width: calc(8% + 0px);
-  min-height: 10vh;
-  text-align: left;
-  float: left;
-
-  background-color: red;
 }
 
 .emph{
