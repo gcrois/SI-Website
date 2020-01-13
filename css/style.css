@@ -43,7 +43,7 @@ body {
   margin: 0 2% 2% 3%;
   padding: 2% 2% 2% 2%;
   width: calc(90% + 0px);
-  min-height: 76vh;
+  min-height: 74vh;
   text-align: left;
 
   background-color: var(--base-3);
