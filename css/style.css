@@ -110,6 +110,7 @@ body {
 
 #sel {
   background-color: var(--mono);
+  color: var(--base-3);
 }
 
 .nav:hover{
