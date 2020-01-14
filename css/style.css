@@ -55,23 +55,27 @@ body {
 
 .content{
   margin: 0 2% 2% 7%;
-  padding: 1% 1% 2% 3%;
-  width: calc(85% + 0px);
+  padding: .5% .5% 0 1.5%;
+  width: calc(87% + 0px);
   min-height: 360px;
   text-align: left;
 
   background-color: var(--base-3);
 }
 
-.emph{
+.emph, .emph:visited, .emph:link{
   color: var(--split);
 }
 
-.high{
+.high, .high:visited, .high:link{
   color: var(--tetrad);
 }
 
-.stress {
+#greg{
+  color: var(--tetrad);
+}
+
+.stress, .stress:visited, .stress:link {
   color: var(--analog);
 }
 
@@ -83,14 +87,18 @@ body {
   position: absolute;
   transform-origin: 0 0;
   transform: rotate(-90deg);
-  margin-left: calc(7% - 20px);
+  margin-left: calc(6.5% - 20px);
   height: 20px;
   min-width: 60px;
   text-align: center;
   text-transform: uppercase;
   padding: 2px 2px 2px 2px;
 
-  background-color: var(--analog);
+  background-color: var(--mono);
+}
+
+a.nav:link, a.nav:visited {
+  color: var(--base-3);
 }
 
 .nav_home {
@@ -110,20 +118,31 @@ body {
 }
 
 #sel {
-  background-color: var(--mono);
+  background-color: var(--tetrad);
   color: var(--base-3);
 }
 
 .nav:hover{
   background-color: var(--altlog);
-  margin-left: calc(6.5% - 20px);
+  margin-left: calc(6% - 20px);
   cursor: pointer;
 }
 
-.fake_content{
+.footer {
   position: fixed;
-  margin: 10% 2% 2% 7%;
-  background-color: red;
-  width: calc(85% + 0px);
-  min-height: 70vh;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 3px 3px 3px 3px;
+  font-size: 14px;
+
+  background-color: var(--base-2);
+  color: var(--base-01);
+  text-align: center;
+}
+
+.sub {
+  font-size: 14px;
+  margin-left: 20px;
+  margin-top: -.2%;
 }
