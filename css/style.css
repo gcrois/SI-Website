@@ -56,7 +56,7 @@ body {
   margin: 0 2% 2% 7%;
   padding: 1% 1% 2% 3%;
   width: calc(85% + 0px);
-  min-height: 70vh;
+  min-height: 360px;
   text-align: left;
 
   background-color: var(--base-3);
@@ -114,5 +114,6 @@ body {
 
 .nav:hover{
   background-color: var(--altlog);
+  margin-left: 3.5%;
   cursor: pointer;
 }
