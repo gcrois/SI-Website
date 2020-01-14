@@ -11,6 +11,19 @@
   --split:   #b58900;
   --tetrad:  #d33682;
   --analog:  #2aa198;
+  --comp:    #cb4b16;
+  --mono:    #268bd2;
+  --altlog:  #6c71c4;
+}
+
+a:link {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:visited {
+  text-decoration: none;
+  color: inherit;
 }
 
 body {
@@ -29,7 +42,7 @@ body {
 }
 
 .t_box {
-  margin: 2% 0 0 9%;
+  margin: 2% 0 0 7%;
   padding: 2% 2% 2% 2%;
   width: 85%;
   border: 0px solid var(--split);
@@ -40,8 +53,8 @@ body {
 }
 
 .content{
-  margin: 0 2% 2% 9%;
-  padding: 2% 2% 2% 2%;
+  margin: 0 2% 2% 7%;
+  padding: 1% 1% 2% 3%;
   width: calc(85% + 0px);
   min-height: 70vh;
   text-align: left;
@@ -65,21 +78,41 @@ body {
   cursor: pointer;
 }
 
+.nav {
+  position: absolute;
+  transform-origin: 0 0;
+  transform: rotate(-90deg);
+  margin-left: 4%;
+  height: 20px;
+  min-width: 60px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 2px 2px 2px 2px;
+
+  background-color: var(--analog);
+}
+
+.nav_home {
+  margin-top: 50px;
+}
+
+.nav_work {
+  margin-top: 170px;
+}
+
+.nav_si {
+  margin-top: 240px;
+}
+
 .nav_cont {
-  position: fixed;
-  margin: 2% 0 0 3%;
+  margin-top: 325px;
 }
 
 #sel {
-  background-color: red;
+  background-color: var(--mono);
 }
 
-.nav_r {
-  margin: 3% 3% 3% 3%;
-  text-transform: uppercase;
-  transform: rotate(-90deg);
-}
-
-.nav_d {
-  min-height: 100px;
+.nav:hover{
+  background-color: var(--altlog);
+  cursor: pointer;
 }
