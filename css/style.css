@@ -55,6 +55,7 @@ body {
 
 .content{
   margin: 0 2% 2% 7%;
+  margin-bottom: 32px;
   padding: .5% .5% 0 1.5%;
   width: calc(87% + 0px);
   min-height: 360px;
@@ -146,4 +147,10 @@ a.nav:link, a.nav:visited {
   font-size: 14px;
   margin-left: 20px;
   margin-top: -.2%;
+}
+
+.divide {
+  height: 100px;
+  width: 100%;
+  background-color: red;
 }
