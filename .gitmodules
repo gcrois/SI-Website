@@ -1,0 +1,3 @@
+[submodule "cs102-worksheets"]
+	path = cs102-worksheets
+	url = git@github.com:gcrois/cs102-worksheets.git
