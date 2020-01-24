@@ -35,7 +35,7 @@ body {
 }
 
 .title {
-  font-size: 32px;
+  font-size: 60px;
 }
 
 .subtitle {
@@ -58,7 +58,7 @@ body {
   margin-bottom: 32px;
   padding: .5% .5% 0 1.5%;
   width: calc(87% + 0px);
-  min-height: 360px;
+  min-height: 400px;
   text-align: left;
 
   background-color: var(--base-3);
@@ -72,16 +72,8 @@ body {
   color: var(--tetrad);
 }
 
-#greg{
-  color: var(--tetrad);
-}
-
 .stress, .stress:visited, .stress:link {
   color: var(--analog);
-}
-
-#greg:hover, #cosc102:hover {
-  cursor: pointer;
 }
 
 .nav {
@@ -103,19 +95,23 @@ a.nav:link, a.nav:visited {
 }
 
 .nav_home {
-  margin-top: 50px;
+  margin-top: 10px;
 }
 
-.nav_work {
-  margin-top: 170px;
+.nav_about {
+  margin-top: 80px;
 }
 
-.nav_si {
-  margin-top: 240px;
+.nav_sharing {
+  margin-top: 165px;
 }
 
-.nav_cont {
-  margin-top: 325px;
+.nav_collecting {
+  margin-top: 280px;
+}
+
+.nav_educating {
+  margin-top: 385px;
 }
 
 #sel {
