@@ -1,2 +1,2 @@
-# SI Website Spring 2020
-This is a website for COSC102 Students at the University of Tennessee, Knoxville. It was created and is maintained by Gregory Croisdale in 2020.
+# College Students Change The World Websites
+This is a website for CSCTW Organization at the University of Tennessee, Knoxville. This website was created and is maintained by Gregory Croisdale in 2020.
