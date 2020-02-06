@@ -28,18 +28,18 @@ a:visited {
 
 body {
   font-family: sans-serif;
-  font-size: 16px;
+  font-size: 12px;
 
   background-color: var(--base-01);
   color: var(--base-03);
 }
 
 .title {
-  font-size: 60px;
+  font-size: 65px;
 }
 
 .subtitle {
-  font-size: 18px;
+  font-size: 30px;
 }
 
 .t_box {
@@ -52,6 +52,8 @@ body {
   background-color: var(--base-2);
   color: var(--base-03);
 }
+p.small{line-height : 5pt}
+p.big {line-height:30pt}
 
 .content{
   margin: 0 2% 2% 7%;
