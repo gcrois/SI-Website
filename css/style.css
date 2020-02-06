@@ -25,6 +25,12 @@ a:visited {
   text-decoration: none;
   color: inherit;
 }
+img {
+  display : block;
+  margin-top :auto;
+  margin-left :auto;
+  margin-right :auto;
+}
 
 body {
   font-family: sans-serif;
