@@ -66,7 +66,7 @@ p.big {line-height:30pt}
   margin-bottom: 32px;
   padding: .5% .5% 0 1.5%;
   width: calc(87% + 0px);
-  min-height: 400px;
+  min-height: 430px;
   text-align: left;
 
   background-color: var(--base-3);
