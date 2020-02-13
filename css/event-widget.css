@@ -1,0 +1,27 @@
+.localist_widget_container{
+  align-items: center;
+  background-color: var(--base-2) !important;
+  width: 99% !important;
+}
+
+.localist_widget_container ul.lw_event_list  {
+  margin-left: 1%;
+  margin-right: 1%;
+  max-width: 100% !important;
+}
+
+.localist_widget_container li.lw_event_item{
+  background-color: var(--base-3) !important;
+  width: 100%;
+}
+
+.action_button {
+  float: right;
+  width: 35%;
+}
+
+.action_button a {
+  margin-right: 100%;
+  width: 200%;
+  background-color: var(--base-1) !important;
+}
