@@ -113,6 +113,7 @@ br.divide {line-height:0pt}
   min-width: 60px;
   text-align: center;
   text-transform: uppercase;
+  font-size: 2.5vw;
   padding: 2px 2px 2px 2px;
 }
 
@@ -141,8 +142,7 @@ a.nav:link, a.nav:visited {
 }
 
 #sel {
-  background-color: var(--tetrad);
-  color: var(--base-3);
+  color: var(--base-03);
 }
 
 .nav:hover{
@@ -181,5 +181,11 @@ a.nav:link, a.nav:visited {
   position: relative;
   width: 30%;
   height: 30%;
-  padding: 10px 10px 10px 10px;
+  padding: 10px 27.5px 10px 10px;
+}
+
+.d_grid {
+  table-layout : fixed;
+  width: 100%;
+  text-align: center;
 }
