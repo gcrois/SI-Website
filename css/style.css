@@ -15,6 +15,7 @@
   --mono:    #268bd2;
   --altlog:  #6c71c4;
   --triad:   #dc322f;
+  --check:       red;
 }
 
 a:link {
@@ -105,6 +106,10 @@ br.divide {line-height:0pt}
 
 .stress, .stress:visited, .stress:link {
   color: var(--analog);
+}
+
+.check {
+  color: var(--check);
 }
 
 .nav {
