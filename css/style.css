@@ -151,7 +151,7 @@ a.nav:link, a.nav:visited {
 }
 
 .nav:hover{
-  color: var(--altlog);
+  color: green;/* var(--altlog);*/
   margin-left: calc(6% - 20px);
   cursor: pointer;
 }
