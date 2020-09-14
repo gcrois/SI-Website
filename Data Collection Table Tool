@@ -1,0 +1,235 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Collecting CSCTW </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="shortcut icon" href="images/favicon/favicon.ico">
+		<link rel="android-touch-icon" sizes="36x36" href="images/favicon/android-icon-36x36.png">
+		<link rel="android-touch-icon" sizes="48x48" href="images/favicon/android-icon-48x48.png">
+		<link rel="android-touch-icon" sizes="72x72" href="images/favicon/android-icon-72x72.png">
+		<link rel="android-touch-icon" sizes="96x96" href="images/favicon/android-icon-96x96.png">
+		<link rel="android-touch-icon" sizes="144x144" href="images/favicon/android-icon-144x144.png">
+		<link rel="android-touch-icon" sizes="192x192" href="images/favicon/android-icon-192x192.png">
+		<link rel="apple-touch-icon" sizes="57x57" href="images/favicon/apple-icon-57x57.png">
+	  <link rel="apple-touch-icon" sizes="60x60" href="images/favicon/apple-icon-60x60.png">
+	  <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-icon-72x72.png">
+	  <link rel="apple-touch-icon" sizes="76x76" href="images/favicon/apple-icon-76x76.png">
+	  <link rel="apple-touch-icon" sizes="114x114" href="images/favicon/apple-icon-114x114.png">
+	  <link rel="apple-touch-icon" sizes="120x120" href="images/favicon/apple-icon-120x120.png">
+	  <link rel="apple-touch-icon" sizes="144x144" href="images/favicon/apple-icon-144x144.png">
+	  <link rel="apple-touch-icon" sizes="152x152" href="images/favicon/apple-icon-152x152.png">
+	  <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-icon-180x180.png">
+	  <link rel="icon" type="image/png" sizes="192x192"  href="images/favicon/android-icon-192x192.png">
+	  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+	  <link rel="icon" type="image/png" sizes="96x96" href="images/favicon/favicon-96x96.png">
+	  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png"><noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<!-- Zac took this out to run background logo <a href="index.html" class="logo">Massively</a> -->
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">CSCTW Home</a></li>
+							<li><a href="About.html">About</a></li>
+							<li><a href="Sharing.html">Sharing</a></li>
+							<li><a href="Educating.html">Educating</a></li>
+							<li class="active"><a href="Collecting.html">Collecting</a></li>
+							<li><a href="Acknowledgements.html">acknowledgements</a></li>
+						</ul>
+						<!--Zac took this out untill we have socail media<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>-->
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+<!-- Table -->
+  <br>
+  <h3>To most activate perspective taking, organize your data with this table:</h3>
+  <br>
+  <div class="table-wrapper">
+    <table class="alt">
+      <thead>
+        <tr>
+          <th>Headline Compnent<br> of Morality</th>
+          <th>Theoretical Filter Questions</th>
+          <th>Scene #</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tbody>
+          <tr>
+            <td>Awareness/<br>Sensitivity</td>
+            <td>
+              <ul align=left>
+                <li> What were the ethical issues that drove your perspectives/actions in this event?
+                  <li>What made you aware that it was an ethical issue?
+            </ul align=left></td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Motivation/<br>Commitment</td>
+            <td>
+              <ul align=left>
+                <li>What do believe about yourself, as a moral being?
+                  <li>What do your words and actions say about who you are?
+                    <li>What are your values and what do you value?
+                      <li>What do your actions say about how you prioritize each in relation to one another?
+                        <li>What matters most to you?</td>
+            </ul align=left><td>2</td>
+          </tr>
+          <tr>
+            <td>Moral Character</td>
+            <td>
+            <ul align=left>
+              <li>What did you do?
+              <li>What made it hard?
+              <li>What gave you the strength to do it?</td>
+            </ul align=left><td>3</td>
+          </tr>
+          <tr>
+            <td>Judgement/Decision-Making <br>(#1)</td>
+            <td>
+              <ul class=a align=left>
+                <li>What is the most “right” answer?</li>
+                  <ul class=b align=left>
+                    <li>What action did you take because it was right?</li></ul></ul>
+              <ul class=a align=left>
+                <li>Does an ethical imperative drive your answer?</li>
+                  <ul class=b align=left>
+                    <li>What principle drove your actions?</li></ul></ul>
+              <ul class=a align=left>
+                <li>What makes you say that?</li>
+                  <ul class=b align=left>
+                    <li>Why did you think your actions reflect that principle?
+                    <li>How might they not?</li></td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Judgement/Decision-Making <br>(#2)</td>
+            <td>
+              <ul class=a align=left>
+                <li>What is the most “right” answer?</li>
+                  <ul class=b align=left>
+                    <li>What action did you take because it was right?</li></ul></ul>
+              <ul class=a align=left>
+                <li>Does an ethical imperative drive your answer?</li>
+                  <ul class=b align=left>
+                    <li>What principle drove your actions?</li></ul></ul>
+              <ul class=a align=left>
+                <li>What makes you say that?</li>
+                  <ul class=b align=left>
+                    <li>Why did you think your actions reflect that principle?
+                    <li>How might they not?</li></td>
+                    </td>
+            <td>5</td>
+          </tr>
+        </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="2"></td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+
+  <hr />
+
+
+</p>
+</header>
+<p><b>Use the following APA citation if referencing or distributing content from this page:</b>
+<br> Boyd, K. D. & Leftwich, B. M. (2020). Ethical Action Theoretical Framework For Communicating Historical
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personally and Socially Responsible Leadership Comparator Experiences [website]. Retrieved from College
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students Change the World website: https://www.csctw.org/</section>
+</div>
+
+<!-- Footer -->
+<footer id="footer">
+<section>
+<form method="post" action="#">
+<div class="fields">
+<div class="field">
+  <h2>Education Related inquiries<h2>
+  <label for="name">Name</label>
+  <input type="text" name="name" id="name" />
+</div>
+<div class="field">
+  <label for="email">Email</label>
+  <input type="text" name="email" id="email" />
+</div>
+<div class="field">
+  <label for="message">Message</label>
+  <textarea name="message" id="message" rows="3"></textarea>
+</div>
+</div>
+<ul class="actions">
+<li><input type="submit" value="Send Message" /></li>
+</ul>
+</form>
+</section>
+<section class="split contact">
+<section class="alt">
+  <div class="field">
+    <h2>research related inquiries:<h2>
+<h3>Address</h3>
+<p>1122 Volunteer Boulevard 322 <br>Bailey Education Complex <br>Knoxville, TN 37996-3430</p>
+</section>
+<section>
+<h3>Phone</h3>
+<p><a href="#">(865) 974-9183</a></p>
+</section>
+<section>
+<h3>Email</h3>
+<p><a href="#">KBoyd14@utk.edu</a></p>
+</section>
+<!-- Social Media Icons Taken out untill that exists<section>
+<h3>Social</h3>
+<ul class="icons alt">
+<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li> -->
+</ul>
+</section>
+</section>
+</footer>
+
+<!-- Copyright -->
+<div id="copyright">
+<ul><li>&copy; 2020 Dr. Karen D. Boyd & Prof. Carolyn Staples</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+</div>
+
+</div>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
