@@ -2436,7 +2436,7 @@ input, select, textarea {
 								font-size: 0.8rem;
 								font-weight: 900;
 								letter-spacing: 0.075em;
-								height: 6rem;
+								height: 9rem;
 								line-height: 3rem;
 								padding: 0 2rem;
 								text-align: center;
@@ -2556,7 +2556,7 @@ input, select, textarea {
 
 							input[type="submit"],
 							input[type="reset"],
-							input[type="button2"],
+							input[type="button3"],
 							button3,
 							.button3 {
 								background-color: transparent;
@@ -2566,7 +2566,7 @@ input, select, textarea {
 
 								input[type="submit"]:hover,
 								input[type="reset"]:hover,
-								input[type="button2"]:hover,
+								input[type="button3"]:hover,
 								button3:hover,
 								.button3:hover {
 									box-shadow: inset 0 0 0 2px #18bfef;
@@ -2575,7 +2575,7 @@ input, select, textarea {
 
 								input[type="submit"].primary,
 								input[type="reset"].primary,
-								input[type="button2"].primary,
+								input[type="button3"].primary,
 								button3.primary,
 								.button3.primary {
 									background-color: #212931;
@@ -2585,7 +2585,7 @@ input, select, textarea {
 
 									input[type="submit"].primary:hover,
 									input[type="reset"].primary:hover,
-									input[type="button2"].primary:hover,
+									input[type="button3"].primary:hover,
 									button3.primary:hover,
 									.button3.primary:hover {
 										background-color: #18bfef;
