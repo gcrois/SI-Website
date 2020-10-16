@@ -296,10 +296,16 @@ input, select, textarea {
 		border-bottom-color: rgba(33, 41, 49, 0.5);
 	}
 
-		a:hover {
+		a:link {
 			border-bottom-color: transparent;
-			color: #18bfef !important;
+			color: #FF8200 !important;
 		}
+
+		a:hover {
+				border-bottom-color: transparent;
+				color: #18bfef !important;
+			}
+
 
 	strong, b {
 		color: #212931;
