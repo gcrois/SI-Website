@@ -301,6 +301,11 @@ input, select, textarea {
 			color: #FF8200 !important;
 		}
 
+		a:visited {
+			border-bottom-color: transparent;
+			color: #FF8200 !important;
+		}
+
 		a:hover {
 				border-bottom-color: transparent;
 				color: #18bfef !important;
@@ -4094,11 +4099,11 @@ input, select, textarea {
 					}
 
 				#nav ul.links li.active {
-					background-color: #ffffff;
+					background-color: #FF8200;
 				}
 
 					#nav ul.links li.active a {
-						color: #1e252d;
+						color: #FF8200;
 					}
 
 						#nav ul.links li.active a:hover {
